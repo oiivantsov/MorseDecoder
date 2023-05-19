@@ -13,8 +13,7 @@ Morse Decoder is a Python program that allows you to encode English text into Mo
 
 ## Installation
 
-1. Clone the repository:
-https://github.com/oiivantsov/Morse.git
+1. Clone the [repository](https://github.com/oiivantsov/MorseDecoder.git)
 
 2. Install the required [pyperclip](https://pypi.org/project/pyperclip/) dependencies (to copy the coding result):
 ```
